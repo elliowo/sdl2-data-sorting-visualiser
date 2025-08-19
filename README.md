@@ -1,4 +1,4 @@
-# Data Visualiser
+# Data Sorting Visualiser
 
 ---
 ![sorting example](./output.gif)

@@ -9,7 +9,7 @@ BINDIR = bin
 
 SOURCES := $(wildcard $(SRCDIR)/*.c)
 OBJECTS := $(SOURCES:$(SRCDIR)/%.c=$(OBJDIR)/%.o)
-TARGET = $(BINDIR)/sorting_visualizer
+TARGET = $(BINDIR)/sorting_visualiser
 
 $(TARGET): $(OBJECTS)
 	@mkdir -p $(BINDIR)

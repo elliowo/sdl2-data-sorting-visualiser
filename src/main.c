@@ -76,7 +76,7 @@ int main(int argc, char *argv[]) {
         return 1;
     }
 
-    SDL_Window *win = SDL_CreateWindow("Sorting Visualizer",
+    SDL_Window *win = SDL_CreateWindow("Sorting Visualiser",
                                        SDL_WINDOWPOS_CENTERED,
                                        SDL_WINDOWPOS_CENTERED,
                                        WINDOW_WIDTH, WINDOW_HEIGHT,
